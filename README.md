@@ -1,4 +1,4 @@
-# LINE Spider
+# PolitiFact Spider
 
 This is a simple project for crawling COVID-19 news from [PolitiFact](https://www.politifact.com).
 
